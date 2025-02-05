@@ -1,0 +1,342 @@
+{
+  "title-xl": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.550}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-xl-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.550}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-xl-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.550}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-l-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.450}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-l-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.450}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-m-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.350}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-m-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.350}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-s-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.250}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "title-s-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.250}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "타이틀 스타일은 사용자가 알아야할 정보와 개념을 강조하고 페이지나 섹션을 명확하게 설명해야 합니다"
+  },
+  "text-xl": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.200}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-xl-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.200}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-xl-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.200}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-xl-medium-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.200}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-xl-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.200}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-l": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.150}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-l-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.150}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-l-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.150}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-l-medium-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.150}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-l-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.150}",
+      "lineHeight": "{base.lineHeight.3}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-m": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.125}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-m-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.125}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-m-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.125}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-m-medium-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.125}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-m-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.125}",
+      "lineHeight": "{base.lineHeight.4}"
+    },
+    "type": "typography",
+    "description": "텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-s": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.100}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-s-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.100}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-s-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.100}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-s-medium-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.100}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-s-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.100}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-xs": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.75}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-xs-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.regular-400}",
+      "fontSize": "{base.fontSize.75}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-xs-medium": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.75}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  },
+  "text-xs-medium-mono": {
+    "value": {
+      "fontFamily": "{base.typeface.mono}",
+      "fontWeight": "{base.fontWeight.medium-500}",
+      "fontSize": "{base.fontSize.75}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 mono 스타일은 페이지,UI에서 기술적 내용을 전달할 때 주로 사용됩니다"
+  },
+  "text-xs-semibold": {
+    "value": {
+      "fontFamily": "{base.typeface.base}",
+      "fontWeight": "{base.fontWeight.semibold-600}",
+      "fontSize": "{base.fontSize.75}",
+      "lineHeight": "{base.lineHeight.5}"
+    },
+    "type": "typography",
+    "description": "주요 정보에는 14이하로 작은 폰트의 사용을 권장하지 않습니다!\n텍스트 스타일은 페이지,UI안에서 사용자의 이해를 돕기 위해 내용을 보조할 때 사용합니다"
+  }
+}

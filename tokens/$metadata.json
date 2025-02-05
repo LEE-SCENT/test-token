@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "base/color/light",
+    "base/dimension",
+    "base/typography",
+    "functional/borders",
+    "functional/color",
+    "functional/spacing",
+    "functional/typography",
+    "pattern/color"
+  ]
+}
